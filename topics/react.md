@@ -47,9 +47,10 @@
     - Composable code ⇒ Taking smaller components to create something larger.
 - Modern Frameworks with React ⇒ allows us to make custom components
     - This makes our code maintainable and shorter.
-        - Navbar Code
+        <details>
+		<summary>Navbar Code</summary>
             
-            ```jsx
+            
             function Navbar() {
                 return (
                     <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -94,9 +95,8 @@
                 <Navbar />,
                 document.getElementById("root")
             )
-            ```
-            
-        - Essentially, we are able to write HTML code and have it be returned by a function in which a function call is all that’s needed to have it render to the page.
+	</details>
+- Essentially, **we are able to write HTML code and have it be returned by a function in which a function call is all that’s needed to have it render to the page**.
 
 ## It’s declarative
 
@@ -694,7 +694,7 @@ It should be:
     }
     ```
     
-- Mini Challenge: Abstract out the <ol> as its own component and the footer as its own component
+- Mini Challenge: Abstract out the \<ol> as its own component and the \<footer> as its own component
     
     ```jsx
     import React from "react"
