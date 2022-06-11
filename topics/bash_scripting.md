@@ -1,18 +1,16 @@
 # Bash Scripting
 
-> **Resources Used:**
-`/Users/paul/Documents/Personal Projects/bash_script_test` - directory i’m working in
-[Bash Reference Manual](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash#Introduction)
-[Utilizing this YouTube playlist](https://www.youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)
-[How to set your $PATH variable in Linux](https://opensource.com/article/17/6/set-path-linux)
-[Top 25 Commands and Creating Custom Commands](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
-[vi[m] Cheatsheet](http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf)
+> **Resources Used:**  
+`/Users/paul/Documents/Personal Projects/bash_script_test` - directory i’m working in  
+[Bash Reference Manual](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash#Introduction)  
+[Utilizing this YouTube playlist](https://www.youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)  
+[How to set your $PATH variable in Linux](https://opensource.com/article/17/6/set-path-linux)  
+[Top 25 Commands and Creating Custom Commands](https://www.educative.io/blog/bash-shell-command-cheat-sheet)  
+[vi[m] Cheatsheet](http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf)  
 [How to Create Bash Aliases](https://linuxize.com/post/how-to-create-bash-aliases/)
 > 
 
 ---
-
-- Table of Contents
 
 # How do we know we’re in the Bash Shell?
 
