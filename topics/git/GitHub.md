@@ -17,10 +17,7 @@
 [How to Enable Git Tab Autocomplete on Your Mac](https://www.macinstruct.com/tutorials/how-to-enable-git-tab-autocomplete-on-your-mac/)  
 [GitHub Hosting Your Websites - GitHub Pages](https://pages.github.com/)
 > 
-
 ---
-
-- Table of Contents
 
 # Basic Terminology
 
