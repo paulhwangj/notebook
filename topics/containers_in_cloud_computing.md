@@ -1,6 +1,5 @@
 # Containers in Cloud Computing
 
-## Table of Contents
 # What are containers?
 ```
 Containers are lightweight packages of your application code together
